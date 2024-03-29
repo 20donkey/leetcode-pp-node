@@ -42,6 +42,8 @@ const unknowns = [
   "5436888893",
   "wxid_tvkpmouwp0n522",
   // "820064276"
+  "20donkey" 
+  //Nian
 ];
 const users = {};
 const lines = data.split(/\n/);
